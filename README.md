@@ -1,9 +1,9 @@
-# Your Project's Title...
-Your project's description...
+# My Website
+This is a playground to familiarize myself with Adobe's Edge Delivery Services.
 
 ## Environments
-- Preview: https://main--{repo}--{owner}.hlx.page/
-- Live: https://main--{repo}--{owner}.hlx.live/
+- Preview: https://main--edge-delivery-tutorial--bchristiani.hlx.page/
+- Live: https://main--edge-delivery-tutorial--bchristiani.hlx.live/
 
 ## Installation
 
