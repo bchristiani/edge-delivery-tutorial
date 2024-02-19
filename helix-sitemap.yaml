@@ -2,7 +2,6 @@ version: 1
 
 sitemaps:
   default:
-    origin: https://custom.domain.com
     source: /query-index.json
     destination: /sitemap.xml
     lastmod: YYYY-MM-DD
