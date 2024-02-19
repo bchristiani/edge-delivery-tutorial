@@ -1,0 +1,3 @@
+# Only visible on "real" site
+user-agent: *
+allow: /
