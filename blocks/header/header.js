@@ -92,9 +92,9 @@ function getDirectTextContent(menuItem) {
     return menuLink.textContent.trim();
   }
   return Array.from(menuItem.childNodes)
-      .filter((n) => n.nodeType === Node.TEXT_NODE)
-      .map((n) => n.textContent)
-      .join(' ');
+    .filter((n) => n.nodeType === Node.TEXT_NODE)
+    .map((n) => n.textContent)
+    .join(' ');
 }
 
 async function buildBreadcrumbsFromNavTree(nav, currentUrl) {
